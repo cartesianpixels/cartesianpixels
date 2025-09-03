@@ -132,6 +132,7 @@ gantt
 <div align="center">
 
 [![Air Assist AI Chatbot for Aviation](https://github-readme-stats.vercel.app/api/pin/?username=cartesianpixels&repo=airassist&theme=github_dark&hide_border=true)](https://github.com/cartesianpixels/airassist)
+[![Fractal Generator](https://github-readme-stats.vercel.app/api/pin/?username=cartesianpixels&repo=fractal-generator&theme=github_dark&hide_border=true)](https://github.com/cartesianpixels/fractal-generator)
 
 
 </div>
