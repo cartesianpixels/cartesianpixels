@@ -205,16 +205,16 @@ gantt
 
 **9-Month Bioinformatics Roadmap Progress**
 
-![Overall Progress](https://img.shields.io/badge/Overall%20Progress-3%25-FF8800?style=for-the-badge&labelColor=1c1917)
+![Overall Progress](https://img.shields.io/badge/Overall%20Progress-15%25-FFB000?style=for-the-badge&labelColor=1c1917)
 
 | Phase | Focus Area | Progress | Status |
 |-------|------------|----------|---------|
-| **Phase 1** | Linux & Command Line (Months 1-2) | ![20%](https://img.shields.io/badge/20%25-FF8800?style=flat-square&logo=&logoColor=white) | 🔄  In Progress|
-| **Phase 2** | Python Programming (Months 3-4) | ![0%](https://img.shields.io/badge/0%25-FF4444?style=flat-square&logo=&logoColor=white) | ⏳ Upcoming |
-| **Phase 3** | Data Science & Stats (Months 5-6) | ![0%](https://img.shields.io/badge/0%25-FF4444?style=flat-square&logo=&logoColor=white) | ⏳ Upcoming |
-| **Phase 4** | Bioinformatics Tools (Month 7) | ![0%](https://img.shields.io/badge/0%25-FF4444?style=flat-square&logo=&logoColor=white) | ⏳ Upcoming |
+| **Phase 1** | Linux & Command Line (Months 1-2) | ![70%](https://img.shields.io/badge/70%25-FFB000?style=flat-square&logo=&logoColor=white) | ✅ Mostly Done |
+| **Phase 2** | Python Programming (Months 3-4) | ![10%](https://img.shields.io/badge/10%25-FF8800?style=flat-square&logo=&logoColor=white) | 🔄 In Progress |
+| **Phase 3** | Data Science & Stats (Months 5-6) | ![5%](https://img.shields.io/badge/5%25-FF8800?style=flat-square&logo=&logoColor=white) | 🔄 Started (basic stats, causal inference) |
+| **Phase 4** | Bioinformatics Tools (Month 7) | ![20%](https://img.shields.io/badge/20%25-FFB000?style=flat-square&logo=&logoColor=white) | ✅ Practical exposure (Seurat, pcalg) |
 | **Phase 5** | Machine Learning & AI (Month 8) | ![0%](https://img.shields.io/badge/0%25-FF4444?style=flat-square&logo=&logoColor=white) | ⏳ Planned |
-| **Phase 6** | Integration & Portfolio (Month 9) | ![0%](https://img.shields.io/badge/0%25-FF4444?style=flat-square&logo=&logoColor=white) | ⏳ Final Phase |
+| **Phase 6** | Integration & Portfolio (Month 9) | ![10%](https://img.shields.io/badge/10%25-FF8800?style=flat-square&logo=&logoColor=white) | 🔄 Ongoing (GitHub project, manuscript) |
 
 
 </div>
