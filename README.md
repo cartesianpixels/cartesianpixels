@@ -48,15 +48,15 @@ class BioinformaticsResearcher:
 <details>
 <summary><b>📈 12-Month Bioinformatics Mastery Roadmap</b></summary>
 
-### 🎯 **Current Phase: [Your Current Phase]**
+### 🎯 **Current Phase: Data Science Basics**
 
 ```mermaid
 gantt
     title My Bioinformatics Learning Timeline
     dateFormat  YYYY-MM-DD
     section Foundation
-    Linux & Command Line     :done, phase1, 2024-01-01, 2024-01-31
-    Python Programming       :done, phase2, 2024-02-01, 2024-02-28
+    Linux & Command Line     :done, phase1, 2024-01-01, 2021-01-03
+    Python Programming       :done, phase2, 2024-02-01, 2024-11-28
     Data Science Basics      :active, phase3, 2024-03-01, 2024-03-31
     section Core Skills
     Genomics & NGS          :phase4, 2024-04-01, 2024-06-30
