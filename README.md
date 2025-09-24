@@ -223,8 +223,6 @@ gantt
 
 <div align="center">
   
-### 🚀 *"I like flags, planes, and making cute apps for people I care about"*
-
 **⭐ Star my repositories if you find them helpful! ⭐**
 
 </div>
